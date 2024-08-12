@@ -18,13 +18,6 @@ The MMM-Showcase leverages Meta Robyn, an open-source tool, to perform comprehen
 
 As this project is set privately, the full documentation, code, and detailed analysis are available upon request. If you are interested in learning more about the methodology, findings, or how MMM can benefit your business, please feel free to reach out.
 
-## Contact
-
-For access to the detailed project or further inquiries, please contact:
-
-- **Name:** [Your Name]
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
 
 ---
 
